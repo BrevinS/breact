@@ -1,10 +1,13 @@
 import React from "react"
 import LandingPage from './LandingPage'
+import ThreeJS from './ThreeJS'
 
 function App() {
+
+
   return (
     <>
-    <LandingPage />
+    <ThreeJS />
     </>
   )
 }
